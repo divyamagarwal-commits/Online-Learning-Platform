@@ -54,24 +54,5 @@ python manage.py runserver   # For Django projects
 
 Access the application at `http://localhost:3000` (or your configured port).
 
-## Contributing
 
-Contributions are welcome! Please follow these steps:
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-For questions or suggestions, please contact [Divyam Agarwal](https://github.com/divyamagarwal-commits).
-
----
-
-*Feel free to customize this README based on your project's specific technologies and setup.*
